@@ -61,6 +61,6 @@ Built with Python and Tkinter, using an in-memory SQLite database.
 
 ## Author
 
-Semester project by Marcinkakova.
+Barbora Marcinčáková
 
 ---
