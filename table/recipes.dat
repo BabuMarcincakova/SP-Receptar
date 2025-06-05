@@ -1,0 +1,50 @@
+('Banana bread', '2 bananas, 2 dates, 2 eggs, 1tsp baking powder, 80g oat flour, cinnamon', 'Mix bananas and dates. Add eggs and mix again. Add baking powder, flour, bit of cinnamon and mix. Bake at 180°C for 30 minutes.', 40, NULL, '1.png'), 
+('Marshmallows', '12g gelatin (5 sheets), 120ml water for gelatin, 1tsp vanilla, 60g corn syrup or honey, 200g sugar, 2-3tbsp water for honey, pinch of salt', 'Add water to the gelatin and let it soak. Mix water, sugar, syrup, vanilla and salt bring it to boil and wait until it hardens when drop put in cold water. Do not stir. Instantly mix with gelatin until fluffy. Pour into smaller pan and let it chill overnight.', 5, NULL, '2.png'), 
+('Kiwi-Bannana smoothie', 'Bannana layer, 1 freezed bannana, 1/2cup greek yoghurt, 2tbsp milk, 1tsp vanilla extract, Kiwi layer, 2 freezed kiwis, 1tbsp greek yoghurt, 1tbsp maple syrup, 2tbsp milk, a handful of spinach', 'For bannana layer, mix all ingredients until smooth and creamy. Pour at the bottom of glass.
+For kiwi layer, clean the mixer and the, again, mix all the ingredients until smooth and creamy. Pour on top of the bannana layer and enjoy :)
+
+
+
+', 10, 1, '3.png'), 
+('Chocolate Chip Cookies', '120g butter (softened), 75g brown sugar, 1 medium egg, 1tsp vanilla extract, 180g plain flour, 1/2tsp baking powder, 150g dark chocolate chips', 'Preheat the oven to 180°C and line two baking sheets with parchment. Mix the butter andd sugars together until light and fluffy, then beat in the egg and vanilla. Once combined, stir in the flour, baking powder, chocolate chips and pinch of salt. Scoop 10 large tbsps of the mixture onto the trays, leaving enough space between each to allow for spreading. Bake for 10-12 minutes or until firm at the edges but still soft in the middle. Leave to cool and then enjoy :)
+
+
+
+
+', 30, 10, '4.png'), 
+('Tapioca porridge', '50g tapioca pearls, 400ml coconut milk, 2tbsp honey, 1tsp vanilla extract, some berries', 'Let tapioca pearls soak 1 day in advance (in circa 1 cup od water). Mix with all ingredients except of fruit. Cook 15-20 minutes until pudding-like. Serve warm with fresh berries.
+
+', 25, 2, NULL), 
+('Fish mappas', '300g basmati rice, 1tbsp sunflower oil, 2 large onions, 2 garlic cloves, 450g tomatoes, 3tbsp tikka curry paste, 400g coconut milk', 'Put a large saucepan of water on to boil and cook the rice following pack instructions. Meanwhile, heat the oil in a large, wide saucepan over a medium heat and add the onions. Cook for 5-10 minutes until softened and starting to colour.
+Add the curry paste, fry for 2 minutes more, then pour in the coconut milk and bring to boil. Add the fish to the pan and simmer gently for 5-8 minutes until just cooked trough. Turn off the heat. Sprinkle the coriander over the curry and serve with the rice.
+
+', 35, 4, NULL), 
+('Spicy sardine dip', '125g sardines in chilli olive oil, 100g creme fraiche, 1 lemon, 1 small shallot, small handful of parsley, pinch of smoked paprika, pinch of cayenne pepper, pinch of onion granules', 'Drain the sardines and tip the sardines into a bowl, reserving the oil. Remove the backbones if there are any, and discard. Mash them lightly using a fork.
+Mix in the creme fraiche, the lemon zest and splash of the juice, the shallot, parsley and smoked paprika, cayenne pepper and onion granules. Season well and add more lemon juice, if needed. Drizzle over the reserved oil to serve.
+
+', 10, 5, '7.png'), 
+('Creamy garlic pasta', '30g tagliatelle, 20g salted butter, 6 garlic cloves, 2tbsp plain flour, 200ml double cream, 85g grated parmesan, 20g flat-leaf parsley', 'Begin by cooking the pasta following pack instructions. Meanwhile, melt the butter in your largest frying pan. Once foaming, add the garlic and 25 twists of a black pepper mill. Cook for 4-5 mins, until the garlic is light golden and fragrant.
+Stir in the flour to form a paste. Stir for 1-2 mins, then slowly whisk in the chicken stock until you have a smooth sauce. Pour in the double cream and sprinkle in most of the parmesan. Stir until everything is melted and combined, then season to taste.
+Transfer the pasta straight into the sauce, alongside a good splash of the cooking water. Mix thoroughly, adding a little more pasta water if necessary, until you have a thick and glossy sauce.
+Divide between four bowls and serve topped with the chopped parsley and remaining parmesan.
+', 25, 4, NULL), 
+('Cheese omelette', '2 eggs, 1/2tbsp olive oil, 1tbsp butter, 15g matured cheddar', 'Crack the eggs into a jug and whisk well with a fork. Season with a pinch of salt.
+Heat the oil and butter in a medium non-stick frying pan over a medium-low heat. Once the butter has started to foam, pour in the eggs and tilt to cover the base of the pan. Using a spatula, gently draw in the eggs from four points so there are folds in the centre. Do this once or twice, then leave the eggs to cook gently for 2-3 mins, until there"s a little raw egg still in the middle. Sprinkle over the cheese and, using your spatula, gently fold the omelette in half. Switch off the heat and let the residual heat from the pan melt the cheese for 1 min. Slide onto your plate and sprinkle over some black pepper to serve.
+', 10, 1, NULL), 
+('Frozen berry yogurt', '250g frozen mixed berry, 250g Greek yogurt, 1tbsp honey', 'Blend berries, yogurt and honey or agave syrup in a food processor for 20 seconds, until it comes together to a smooth ice-cream texture. Scoop into bowls and serve.
+', 5, 4, NULL), 
+('Pomegranate salad', '60ml olive oil, 2tbsp lemon juice, 1tbsp honey, 2 thyme springs, 100g baby lettuce leaves, 250g cherry tomatoes, 3 spring onions, 1 red chilli, 1 pomegranate, 50g feta', 'Combine the olive oil, lemon juice, honey and thyme leaves in a large bowl. Season well, then tip in the lettuce, tomatoes, spring onions and chilli, and toss to combine.
+Scoop out the pomegranate seeds over a bowl and remove any white membrane. Arrange the dressed salad on a platter, then scatter over the pomegranate seeds and feta.
+', 20, 2, '11.png'), 
+('Couscous salad', '100g couscous, 200ml hot low salt vegetable stock, 2 spring onions, 1 red pepper, 1/2 cucumber, 50g feta cheese, 2tbsp pesto, 2tbsp pine nuts', 'Tip the couscous into a large bowl and pour over the stock. Cover, then leave for 10 mins until fluffy and all the stock has been absorbed. Meanwhile, slice the onions and pepper, and dice the cucumber. Add these to the couscous, fork through the pesto, crumble in the feta, then sprinkle over pine nuts to serve.
+
+
+', 10, 2, NULL), 
+('Passion fruit mule', '50ml vodka, 50ml passion fruit liqueur, 1 passion fruit, 150ml ginger beer, ice, lime wedge', 'Pour the vodka and passion fruit liqueur into a tumbler or copper cup. Add the fresh passion fruit pulp and mix to combine.
+Add ice to a tumbler until it is three-quarters full, then top up with the ginger beer. Stir gently. Finish with a lime wedge to serve.
+
+', 5, 1, NULL), 
+('Frozen margarita', '50ml tequila, 25ml triple sec, 25ml lime juice, 15ml sugar syrup, large handful of ice, lime wedge', 'Put all the ingredients except the lime wedge in a blender and blitz until smooth. Tip into a cocktail, margarita or rocks glass, garnish and serve. 
+
+
+', 5, 1, '14.png');
